@@ -8,9 +8,9 @@
 - We use the product which is virtually created on cloud, resources are available to us on demand and we pay for particular resources (like RAM,core,HD) depending on our use and time and the costing model.
 - **Rent -> Pay as you go**
 	3 types of cloud : 		
-		Public (Anyone can see it)
-		Private (Owned by one organization)
-		Hybrid (public + private)
+		1) Public (Anyone can see it)
+		2) Private (Owned by one organization)
+		3) Hybrid (public + private)
 -  Different vendors are there like Amazon, Microsoft, Google, Oracle, IBM,etc.
     	These vendors create cloud and make it available to us and charge us depending on our demand and time we use their resources.
 - Examples of public cloud :
