@@ -7,7 +7,7 @@
 - It can be used as a virtual machine, storage of data, for computing we can access it from anywhere. 
 - We use the product which is virtually created on cloud, resources are available to us on demand and we pay for particular resources (like RAM,core,HD) depending on our use and time and the costing model.
 - **Rent -> Pay as you go**
-	3 types of cloud : 		
+- 3 types of cloud : 		
 		1) Public (Anyone can see it)
 		2) Private (Owned by one organization)
 		3) Hybrid (public + private)
