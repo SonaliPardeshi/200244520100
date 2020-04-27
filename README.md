@@ -1,6 +1,5 @@
-					**Assignment 1**
+**Assignment 1 - Introduction of cloud**
 
-				             **Cloud Introduction**
 
 **Q.1) What is cloud?**
 
