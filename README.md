@@ -1,4 +1,4 @@
-							#Assignment 1 – Cloud Introduction
+#Assignment 1 – Cloud Introduction
 
 **Q.1) What is cloud?**
 
@@ -13,7 +13,7 @@
 -  Different vendors are there like Amazon, Microsoft, Google, Oracle, IBM,etc.
     	These vendors create cloud and make it available to us and charge us depending on our demand and time we use their resources.
 - Examples of public cloud :
-	1) Amazon – AWS (Amazon Web Services)
+	1) **Amazon – AWS (Amazon Web Services)**
 	2) Microsoft – Azure
 	3) Google – GCP (Google Cloud Platform)
  - It can be said as delivery of computing services like storage, servers, on internent. 		
@@ -29,5 +29,5 @@
 7)	We can access the virtual instance remotely.
 8)	Charged for resources only when we use them and we can release resources whenever needed.
 9)	**Easy data transfer** from local->instance on cloud and vice versa.
-10)	Storage capacity can be changed, system configurations can be changed.
+10)	**Storage capacity** can be changed, system configurations can be changed.
   
