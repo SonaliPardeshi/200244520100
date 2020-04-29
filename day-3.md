@@ -36,8 +36,8 @@ General command
 - But, mobaxterm also uses the above shell command in backend, it is just that we cannot see it because we are using direct UI.
 
 2. For Linux
- 
-   ssh -i <.pem>username@ip-address
+       
+       ssh -i <.pem>username@ip-address
 
 ---
 
@@ -45,9 +45,12 @@ General command
 
 Conventions : 
 
- /# - Represents root/
+ /# - Represents root
+ 
  ~  - Home directory of current user
+ 
  /  - Root directory 
+ 
  vi - Tool/program used in linux to create file
 
  **Command** | **Description** |
