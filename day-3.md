@@ -78,7 +78,9 @@ Conventions :
 **Absolute Pathname**|**Relative Pathname**|
 ---|---
 Begins with the root directory and follows the tree branch till desired dir/file|Begins with current directory and goes till root.|
-Always starts with **/**| **.** represents current working dir. and **..** represents parent directory of workking directory.|
+Always starts with **/**| **.** -> represents current working dir. 
+
+**..** -> represents parent directory of workking directory.|
 Example: /home/user|Example: ../data/demo.txt| 
 
 ***Q. Which one should we use?***
