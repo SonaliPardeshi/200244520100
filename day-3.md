@@ -99,6 +99,6 @@ Example: /home/user|Example: ../data/demo.txt|
   5. Aurora
 - We can connect to this database from our local machine.
 - Security groups can be created differently.
-- Can stop the instance whenever not in use thus by saving credits.
+- Can stop the instance whenever not in use thus by saving credits and money.
 
 
