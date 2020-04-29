@@ -1,12 +1,12 @@
 
-**Day2/** 
+**Day2** 
 28/04/2020
 
 
 # 3 Models of cloud services : 		
 	1) SaaS	(Software as a Srvice)
 	2) PaaS	(Platform as a Service)
-	3) IaaS 	(Infrastructure as a Service)
+	3) IaaS (Infrastructure as a Service)
 
 
 **SaaS**
@@ -20,6 +20,7 @@ Examples :
 	Splunk,
 	Storm,etc.
 
+---
 
 **PaaS**
 
@@ -40,7 +41,7 @@ Examples :
 
 Examples :
 	VM: Ec-2,
-	Volume
+	Volume,etc.
 
 ---
 
