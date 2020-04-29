@@ -1,8 +1,9 @@
-#Day2  
+
+**Day2/** 
 28/04/2020
 
 
-- 3 Models of cloud services : 		
+# 3 Models of cloud services : 		
 	1) SaaS	(Software as a Srvice)
 	2) PaaS	(Platform as a Service)
 	3) IaaS 	(Infrastructure as a Service)
@@ -32,7 +33,7 @@ Examples :
 ---
 
 
-** IaaS**
+**IaaS**
 
 - Raw computing resources.
 - Provides access to resources like - servers,storage and netwroking.
@@ -43,7 +44,7 @@ Examples :
 
 ---
 
-** Firewall **
+**Firewall**
 
 - Monitors all incoming and outgoung traffic and accepts, rejests or drops the traffic based on predefined security rules.
 - Designed to prevent unautorized access to or from a private network.
@@ -51,7 +52,7 @@ Examples :
 - Creates a barrier between private network and outside untrusted networks.
 
 
-**AWS Firewall : Security Groups **
+**AWS Firewall : Security Groups/**
 
 ![Security group](images/sec_group.png)
 
@@ -72,7 +73,7 @@ S3 - Storage Secured Service
 - We can store any type of data in form of object.
 - Unlimited storage space available.
 - **Bucket** needs to be created where we can store our data.
-- ** S3 does not require region separation**.
+- **S3 does not require region separation**.
 - Bucket name has to be unique across AWS.
 - Bucket is like a folder, we can create folders inside it.
 - We can upload or download files to or from these folders, but we cannot create a file here.
