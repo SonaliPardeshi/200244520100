@@ -1,6 +1,5 @@
 
 **Day2** 
-28/04/2020
 
 
 # 3 Models of cloud services : 		
