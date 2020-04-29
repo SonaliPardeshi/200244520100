@@ -52,7 +52,7 @@ Examples :
 - Creates a barrier between private network and outside untrusted networks.
 
 
-**AWS Firewall : Security Groups/**
+**AWS Firewall : Security Groups**
 
 ![Security group](images/sec_group.png)
 
