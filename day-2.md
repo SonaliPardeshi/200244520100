@@ -18,7 +18,7 @@ Examples :
 	Tableau, 
 	Splunk,
 	Storm,etc.
----
+
 
 **PaaS**
 
@@ -31,13 +31,14 @@ Examples :
 
 ---
 
+
 ** IaaS**
 
 - Raw computing resources.
 - Provides access to resources like - servers,storage and netwroking.
 
 Examples :
-	VM: Ec-2
+	VM: Ec-2,
 	Volume
 
 ---
@@ -49,13 +50,14 @@ Examples :
 - It can be hardware or software based.
 - Creates a barrier between private network and outside untrusted networks.
 
-**AWS Firewall - Security Groups **
+
+**AWS Firewall : Security Groups **
 
 ![Security group](images/sec_group.png)
 
-2 Sets of rules 
-	1. Inbound		- Controls incoming traffic
-	2. Outbound	- Controls outgoing traffic
+- 2 Sets of rules:
+	1. Inbound	    - Controls incoming traffic
+	2. Outbound  - Controls outgoing traffic 
 
 - These rules can be used for open/close port while remotely accessing the system.
 - We can create different security groups and can manage ports.
@@ -64,13 +66,13 @@ Examples :
 
 ---
 
-**Service 2 : S3** 
+**Service 2 - S3** 
 S3 - Storage Secured Service
  
 - We can store any type of data in form of object.
 - Unlimited storage space available.
 - **Bucket** needs to be created where we can store our data.
-- ** S3 does not require region separation.**
+- ** S3 does not require region separation**.
 - Bucket name has to be unique across AWS.
 - Bucket is like a folder, we can create folders inside it.
 - We can upload or download files to or from these folders, but we cannot create a file here.
