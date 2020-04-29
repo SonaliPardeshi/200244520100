@@ -1,4 +1,4 @@
-**Assignment 2 - Day 2 **  
+**Day 2 **  
 28/04/2020
 
 
