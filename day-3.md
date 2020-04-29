@@ -26,7 +26,7 @@ General command
        ssh username@ip-address   
 - After this enter and provide password, you can login.
          
-- But this method of username-password pair increases the chances of **Brute Forcce Attack** (anyone can pass all possible combinations     of password and can hack the system).
+- But this method of username-password pair increases the chances of **Brute Force Attack** (anyone can pass all possible combinations     of password and can hack the system).
 - So,Linux uses the combination of private and public key arrived, while windows still use user-passwrd pair for authentication.
 - This **public key is on AWS instance** in our case it is on ec2. 
 - And **Pricate Key is nothing but the .pem** that is generated.
@@ -80,7 +80,7 @@ Begins with the root directory and follows the tree branch till desired dir/file
 Always starts with **/**| **.** represents current working dir. and **..** represents parent directory of workking directory.|
 Example: /home/user|Example: ../data/demo.txt| 
 
-*Q. Which one should we use?*
+***Q. Which one should we use?***
 
 -> It depends on the situation, in some we have to use absolute pathname while in others we nay need to use relative pathname.
 
