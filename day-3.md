@@ -45,7 +45,7 @@ General command
 
 Conventions : 
 
- /# - Represents root
+ /#/ - Represents root
  
  ~  - Home directory of current user
  
