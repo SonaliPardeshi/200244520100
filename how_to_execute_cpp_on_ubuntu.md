@@ -10,9 +10,9 @@
 	
 		vi code_1.cpp
 
-**Step 3: Exit from insert mode**
+**Step 3: Exit from current mode**
 
-		ESC
+		esc
 
 **Step 4: Write your code and save**
 
