@@ -15,6 +15,7 @@
 **Step 4: Type :w for writing to file and write your code there.**
 
 ![Security group](images/code_1.png)
+
 **Step 5: To come out of write mode, press esc and write :q to quit, you will be out of edit mode.**
 
 **Step 6: You can also check your file content using following command**
