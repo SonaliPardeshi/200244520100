@@ -1,7 +1,7 @@
 ##Introduction of cloud
 
 
-	**Q.1) What is cloud?**
+**Q.1) What is cloud?**
 
 - Cloud **computes resources on rent**.
 - It can be used as a virtual machine, storage of data, for computing we can access it from anywhere. 
@@ -21,7 +21,7 @@
 
 ---
 
-	**Q.2) What are advantages of cloud?**
+**Q.2) What are advantages of cloud?**
 
 1)	**On demand resource availability.**
 2)	We have to pay for the resources which we are using depending on time we are using it.
