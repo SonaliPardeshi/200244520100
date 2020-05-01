@@ -23,6 +23,7 @@
 
 **Step 5: To come out of write mode**
 
+		esc
 		:q
 
 **Step 6: You can also check your file content using following command**
