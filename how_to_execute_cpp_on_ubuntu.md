@@ -39,7 +39,7 @@
 
 **Step 8: Run the code**
 
-		g++ ./code_1.cpp
+		./code_1.cpp
 
 
 - You will get output like this - 
