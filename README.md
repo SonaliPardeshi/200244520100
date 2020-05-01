@@ -1,7 +1,7 @@
-**Assignment 1 - Introduction of cloud**
+##Introduction of cloud
 
 
-**Q.1) What is cloud?**
+	**Q.1) What is cloud?**
 
 - Cloud **computes resources on rent**.
 - It can be used as a virtual machine, storage of data, for computing we can access it from anywhere. 
@@ -19,7 +19,9 @@
 	3) Google – GCP (Google Cloud Platform)
  - It can be said as delivery of computing services like storage, servers, on internent. 		
 
-**Q2) What are advantages of cloud?**
+---
+
+	**Q.2) What are advantages of cloud?**
 
 1)	**On demand resource availability.**
 2)	We have to pay for the resources which we are using depending on time we are using it.
