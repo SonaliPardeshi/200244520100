@@ -14,14 +14,14 @@
 
 **Step 4: Type :w for writing to file and write your code there.**
 
-		![Security group](images/code_1.png)
+![Security group](images/code_1.png)
 **Step 5: To come out of write mode, press esc and write :q to quit, you will be out of edit mode.**
 
 **Step 6: You can also check your file content using following command**
 	
 		cat code_1.cpp
 
-	![Security group](images/check_code.png)
+![Security group](images/check_code.png)
 
 **Step 7: Compile and create executable file**
 	
@@ -34,6 +34,6 @@
 
 - You will get output like this - 
 
-##Output:
+## Output:
 	
-		![Security group](images/output_1.png)
+![Security group](images/output_1.png)
