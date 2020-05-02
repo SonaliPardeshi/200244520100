@@ -48,7 +48,7 @@ Backup, scalability and maintenance- everything managed by admin.|Maintenance,sc
 
 **About S3**
 
-	-	Everything in s3 bucket is an object.**
+	-	Everything in s3 bucket is an object.
 	-  	Objects are immutable.
 
 **Immutable**
@@ -59,7 +59,7 @@ Backup, scalability and maintenance- everything managed by admin.|Maintenance,sc
 	Bucket 		: 100-bucket1
 	Directory	: Test
 	File 		: demo.txt
-	Content 	:	"Welcome"
+	Content 	: "Welcome"
 
 - demo.txt file is uploaded and now if you want to change the content, then you have to delete the file, make and upload the updated file again, it cannot be updated there.  		
 
