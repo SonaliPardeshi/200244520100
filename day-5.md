@@ -1,6 +1,7 @@
 # AWS LAMBDA - serverless computing service
 
-	**Features**
+**Features**
+		
 		- You don't own a server.
 		- No maintenance.
 		- Scalability and parallelization. 
@@ -39,7 +40,6 @@ And next time your code is updated and now it is using 2gb space then you don't 
 **EC2**|**RDS**
 ---|---
 EC2 is managed by AWS but any application installed is managed by developer.|MYSQL server here is fully mangaed by AWS.
----|---
 Backup, scalability and maintenance- everything managed by admin.|Maintenance,scalability and backup managed by AWS.
 
 
@@ -51,17 +51,17 @@ Backup, scalability and maintenance- everything managed by admin.|Maintenance,sc
 	-	Everything in s3 bucket is an object.**
 	-  	Objects are immutable.
 
-		**Immutable*
-			-	Anything created in bucket cannot be updated.
+**Immutable**
+	-	Anything created in bucket cannot be updated.
 
 **Example:**
 
 	Bucket 		: 100-bucket1
-		Directory	: Test
-			File 		: demo.txt
-				Content 	:	"Welcome"
+	Directory	: Test
+	File 		: demo.txt
+	Content 	:	"Welcome"
 
-	demo.txt file is uploaded and now if you want to change the content, then you have to delete the file, make and upload the updated file again, it cannot be updated there.  		
+- demo.txt file is uploaded and now if you want to change the content, then you have to delete the file, make and upload the updated file again, it cannot be updated there.  		
 
 
 
