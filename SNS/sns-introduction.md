@@ -25,3 +25,6 @@ Amazon SNS lets you send push notifications to mobile apps, text messages to mob
 
 
 ![Security group](images/user-notifications.png)
+
+
+*References : Reference : https://docs.aws.amazon.com/
