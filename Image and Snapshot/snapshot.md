@@ -6,7 +6,7 @@
 - 	Snapshots are **incremental** 
 		If we take snapshot of same volume multiple times, new snapshots saves the data which is added after previous snapshot.
 -	Snapshots taken from encrypted volume are automatically encrypted.
--
+
 
 
 
